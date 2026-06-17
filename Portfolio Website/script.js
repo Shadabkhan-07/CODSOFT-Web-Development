@@ -1,4 +1,3 @@
-```javascript
 // ==========================
 // Mobile Menu Toggle
 // ==========================
@@ -98,4 +97,3 @@ revealElements.forEach(item => {
 
 window.addEventListener("scroll", revealOnScroll);
 window.addEventListener("load", revealOnScroll);
-```
