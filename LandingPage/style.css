@@ -86,3 +86,7 @@ footer{
     text-align:center;
     padding:15px;
 }
+nav a.active {
+    color: #00bfff;
+    font-weight: bold;
+}
